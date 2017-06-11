@@ -1,0 +1,4 @@
+Full_Path, IsValid,X,Y,ROI,Colour_group,N_in_clust,Area,Radius,Hue,Saturation,Rmean,Gmean,Bmean,Rsd,Gsd,Bsd, Comment
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\9\2_4.png", 1,454.75,362.25,1,0,1,73,5,40,155,224.863,194.507,132.068,16.8471,14.3685,10.0785, "2016-06-12 [¤U¤È1:50:57]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\9\2_4.png", 1,50.5,280.5,1,0,1,78,5,48,157,232.577,218.974,162.231,18.7023,18.3057,12.7276, "2016-06-12 [¤U¤È1:50:57]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\9\2_4.png", 1,48.6,157.7,1,0,1,55,4,50,167,237.891,227.436,173.509,14.5535,14.7996,11.5104, "2016-06-12 [¤U¤È1:50:57]: no comment"

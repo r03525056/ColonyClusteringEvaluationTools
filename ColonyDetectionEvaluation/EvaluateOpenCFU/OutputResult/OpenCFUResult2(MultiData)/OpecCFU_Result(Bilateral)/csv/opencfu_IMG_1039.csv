@@ -1,0 +1,7 @@
+Full_Path, IsValid,X,Y,ROI,Colour_group,N_in_clust,Area,Radius,Hue,Saturation,Rmean,Gmean,Bmean,Rsd,Gsd,Bsd, Comment
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1039.png", 1,131.5,432.5,1,0,1,82,5,42,248,139.451,98.0366,2.06098,20.9482,7.18701,3.34442, "2016-06-26 [下午 10:21:01]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1039.png", 1,402,410,1,0,1,71,6,42,251,138.577,98.4366,1.28169,17.1626,4.88109,3.09078, "2016-06-26 [下午 10:21:01]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1039.png", 1,128.5,267.5,1,0,1,79,5,48,245,145.076,116.962,2.50633,27.4196,11.4439,4.04761, "2016-06-26 [下午 10:21:01]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1039.png", 1,368.5,212.5,1,0,1,111,6,46,248,152.072,119.432,1.99099,21.6915,7.93031,3.88986, "2016-06-26 [下午 10:21:01]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1039.png", 1,124.25,210.75,1,0,1,46,4,52,248,143.13,122.652,1.86957,23.048,16.9035,3.18302, "2016-06-26 [下午 10:21:01]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1039.png", 1,186,57,1,0,1,37,3,66,251,132.297,144.27,1.10811,13.1874,15.2708,2.3312, "2016-06-26 [下午 10:21:01]: no comment"

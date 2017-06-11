@@ -1,0 +1,11 @@
+Full_Path, IsValid,X,Y,ROI,Colour_group,N_in_clust,Area,Radius,Hue,Saturation,Rmean,Gmean,Bmean,Rsd,Gsd,Bsd, Comment
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1021.png", 1,179.4,400.8,1,0,1,74,5,44,248,136.351,99.3784,2.18919,24.6143,9.81139,2.90785, "2016-06-26 [下午 10:09:05]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1021.png", 1,439.5,395.5,1,0,1,77,5,54,251,135.104,120.766,0.74026,13.179,5.4602,1.63251, "2016-06-26 [下午 10:09:05]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1021.png", 1,331.5,361.5,1,0,1,83,5,46,248,141.12,109.699,2.37349,22.6307,9.98424,3.90289, "2016-06-26 [下午 10:09:05]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1021.png", 1,314,351,1,0,1,74,6,42,245,150.905,108.581,2.97297,20.8924,6.04308,4.56019, "2016-06-26 [下午 10:09:05]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1021.png", 1,218.25,344.75,1,0,1,70,5,44,245,148.057,107.229,2.98571,27.1337,9.98915,4.52336, "2016-06-26 [下午 10:09:05]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1021.png", 1,98.5,337.5,1,0,1,56,4,42,241,141.821,100.571,3.71429,23.3847,8.04794,4.05728, "2016-06-26 [下午 10:09:05]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1021.png", 1,157.5,326,1,0,1,47,4,42,245,152,108.809,2.87234,24.6139,8.04284,3.93632, "2016-06-26 [下午 10:09:05]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1021.png", 1,223.5,313.5,1,0,1,52,4,42,242,157.481,111.385,3.51923,24.3151,7.62209,4.5382, "2016-06-26 [下午 10:09:05]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1021.png", 1,225.5,244,1,0,1,101,6,48,245,148.683,117.792,2.53465,25.3611,11.0782,4.05256, "2016-06-26 [下午 10:09:05]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1021.png", 1,479,225,1,0,1,41,4,42,248,152.171,104.78,2.46341,11.5943,2.53833,3.67871, "2016-06-26 [下午 10:09:05]: no comment"

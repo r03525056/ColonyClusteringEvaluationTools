@@ -1,0 +1,13 @@
+Full_Path, IsValid,X,Y,ROI,Colour_group,N_in_clust,Area,Radius,Hue,Saturation,Rmean,Gmean,Bmean,Rsd,Gsd,Bsd, Comment
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,362.8,168.6,1,0,2,178,8,56,26,198.169,196.567,184.669,18.9047,15.8066,13.415, "2016-06-12 [下午1:43:36]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,350.5,162.5,1,0,2,85,5,72,21,195.553,197.671,187.741,21.5921,17.5653,13.212, "2016-06-12 [下午1:43:36]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,271.5,436,1,0,1,251,9,28,30,137.386,122.434,108.462,14.695,11.4263,11.0779, "2016-06-12 [下午1:43:36]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,209.25,361.25,1,0,1,174,8,40,18,137.247,131.437,119.466,17.4632,15.8434,14.3087, "2016-06-12 [下午1:43:36]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,176,360,1,0,1,163,8,42,19,136.436,129.785,117.356,16.0349,14.7371,13.1098, "2016-06-12 [下午1:43:36]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,433,326,1,0,1,201,9,48,18,164.587,161.562,150.627,14.0114,12.3715,10.6684, "2016-06-12 [下午1:43:36]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,273,246.5,1,0,1,246,9,74,23,185.033,187.894,175.333,16.8614,15.2123,14.2445, "2016-06-12 [下午1:43:36]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,257.5,235,1,0,1,24,3,110,9,171.292,175.917,170.083,18.6032,17.7827,14.8411, "2016-06-12 [下午1:43:36]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,107,195,1,0,1,227,9,66,21,202.656,203.683,194.537,13.2692,12.1528,10.1035, "2016-06-12 [下午1:43:36]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,93,181,1,0,1,134,7,54,26,206.918,206.142,196.082,12.102,10.3267,9.51167, "2016-06-12 [下午1:43:36]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,155,167.5,1,0,1,16,3,146,12,156.438,164.688,160.313,9.4185,8.46424,6.26449, "2016-06-12 [下午1:43:36]: no comment"
+"Z:\Documents\NTU_CKLab\ColonyCounterGroup\colony_algorithm_lab\colony-algorithm\data\8\8_173.png", 1,223.5,87,1,0,1,271,10,70,25,202.461,203.771,193.181,17.302,14.9765,11.795, "2016-06-12 [下午1:43:36]: no comment"

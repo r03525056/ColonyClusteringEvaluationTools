@@ -1,0 +1,4 @@
+Full_Path, IsValid,X,Y,ROI,Colour_group,N_in_clust,Area,Radius,Hue,Saturation,Rmean,Gmean,Bmean,Rsd,Gsd,Bsd, Comment
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1038.png", 1,253,415,1,0,1,77,6,42,248,143,102.104,2.15584,20.2117,6.06986,3.29095, "2016-06-26 [¤U¤È 10:20:30]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1038.png", 1,385,308,1,0,1,75,6,44,245,149.333,107.773,2.64,22.2774,7.40744,3.81728, "2016-06-26 [¤U¤È 10:20:30]: no comment"
+"Z:\Documents\NTU_CKLab\colony-algorithm\data\multiple_colony_data\IMG_1038.png", 1,98,236.5,1,0,1,80,6,44,245,149.213,108.638,2.9625,23.7012,7.98077,3.65256, "2016-06-26 [¤U¤È 10:20:30]: no comment"
